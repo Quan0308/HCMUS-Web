@@ -8,7 +8,7 @@ export default [
     element: <Navigate to={'/HCMUS-Web/image-gallery/photos'} replace />
   },
   {
-    path: '/tic-tac-toe',
+    path: '/HCMUS-Web/tic-tac-toe',
     element: <TicTacToe />
   },
   {
